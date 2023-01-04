@@ -1,0 +1,57 @@
+html, body
+{background-color: #ffff90;
+color: #000000;
+margin-top: 5px;
+font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+div#strona
+{width: 900px;
+margin: 0 auto;
+padding: 10px;
+background-color: #c8c8ff;
+}
+
+div#naglowek
+{height: 30px;
+padding: 15px;
+margin-bottom: 2px;
+background-color: #000060;
+color: #ffffff;
+}
+
+div#naglowek_2
+{height: 100px;
+padding: 15px;
+margin-bottom: 2px;
+background-color: #1e1e6e;
+color: #ffffff;
+}
+
+div#menu
+{width: 200px;
+float: right;
+overflow: hidden;
+padding: 10px;
+margin-left: 2px;
+background-color: #7878c8;
+}
+
+div#menu ul
+{list-style-type: none;
+}
+
+div#zawartosc
+{overflow: hidden;
+padding: 40px;
+background-color: #9696e1;
+}
+
+div#stopka
+{clear: both;
+height: 50px;
+padding: 10px;
+margin-top: 2px;
+background-color: #323296;
+color: #ffffff;
+}
